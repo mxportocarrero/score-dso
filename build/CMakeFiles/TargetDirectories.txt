@@ -1,8 +1,0 @@
-/home/maxideveloper/Documents/000.Proyectos/004.TesisMaestría/code/score-dso/build/CMakeFiles/rebuild_cache.dir
-/home/maxideveloper/Documents/000.Proyectos/004.TesisMaestría/code/score-dso/build/CMakeFiles/edit_cache.dir
-/home/maxideveloper/Documents/000.Proyectos/004.TesisMaestría/code/score-dso/build/src/CMakeFiles/rebuild_cache.dir
-/home/maxideveloper/Documents/000.Proyectos/004.TesisMaestría/code/score-dso/build/src/CMakeFiles/SCOREdso.dir
-/home/maxideveloper/Documents/000.Proyectos/004.TesisMaestría/code/score-dso/build/src/CMakeFiles/edit_cache.dir
-/home/maxideveloper/Documents/000.Proyectos/004.TesisMaestría/code/score-dso/build/apps/CMakeFiles/rebuild_cache.dir
-/home/maxideveloper/Documents/000.Proyectos/004.TesisMaestría/code/score-dso/build/apps/CMakeFiles/app.dir
-/home/maxideveloper/Documents/000.Proyectos/004.TesisMaestría/code/score-dso/build/apps/CMakeFiles/edit_cache.dir
