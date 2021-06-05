@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libSCOREdso.a CMakeFiles/SCOREdso.dir/DatabaseReader.cpp.o
+/usr/bin/ranlib ../../lib/libSCOREdso.a

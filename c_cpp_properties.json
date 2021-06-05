@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+        "includePath": ["/usr/local/include",
+            "./include"
+        ]
+    }
+]
+
+}
