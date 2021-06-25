@@ -6,12 +6,14 @@
 cmake-build-debug/*
 cmake-build-**
 **/build
+bin
 bin/*
 lib/*
 **/lib
 build*
 
 # results
+TUMrgbd
 results/*
 evaluation/results/
 evaluation/matlab-evaluation/**/*.mat

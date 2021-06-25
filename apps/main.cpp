@@ -3,6 +3,11 @@
 
 #include "DatabaseReader.h"
 
+/*
+GLOBAL VARIABLES
+*/
+int numTrees = 5;
+
 using namespace std;
 
 int main()
